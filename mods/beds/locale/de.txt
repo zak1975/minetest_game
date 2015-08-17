@@ -1,0 +1,3 @@
+Fancy Bed = Komfortbett
+Simple Bed = Einfaches Bett
+
